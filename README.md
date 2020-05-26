@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Wynand Pieters Consulting
 
-You can use the [editor on GitHub](https://github.com/wpieters/wpieters.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I started my consulting company after being retrenched from my last startup. Going through that and learning from mistakes I've seen made, I decided to help other companies focus on getting the right infrastructure, processes, tooling and people in place for success.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+I started doing coding examples out of the "Teach Yourself BASIC" book on my dad's Sinclair ZX Spectrum as soon as I could read. Moved on to C and Delphi just before High School. Started gaming around age 6, starting on Spectrum, Atari, then Intel 286 and up. Moved onto consoles in days of NES, then Sega Mega Drive, missed the PSOne/Saturn era. Made up for it by purchasing every single handheld and console released since the PS2/GameCube era. Later found myself intrigued with the world of emulators, pushed me in the direction I wanted to go study.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Did B.EngSci (Computer Systems), a combination of B.Sc (CompSci) and Electronic Engineering, after which I started my professional software engineering career. Turns out that me and electronics aren't quite BFFs, I decided to focus on software. Ended up doing a lot of Java, Groovy and Javascript for a long time, but playing with C++, C# and Ruby in my spare time. Lots of enterprise Java; big financial and Customs systems on Webspehere and Weblogic. This was followed by cloud development doing Scala and Go microservices, and later serverless development in Python and Go on AWS.
 
-```markdown
-Syntax highlighted code block
+After being retrenched from my last job when the company was declared insolvent, I decided to go into consulting sooner rather than later, pulling on my 13 years industry experience and 25+ years of just loving technology and learning in order to help companies grow and learn from mistakes I've seen made often.
 
-# Header 1
-## Header 2
-### Header 3
+I'm always willing to learn and ready to change and adapt. Having a broad knowledge base and experience in different aspects of making software, coupled with my willingness to learn and dedication in making great software, is what I feel separates me from the pack. Always looking for ways to improve the entire SDLC for providing better quality software faster.
 
-- Bulleted
-- List
+### Services
 
-1. Numbered
-2. List
+I focus on consulting on architecture, DevOps and process, but I do have years of coding experience and still love to get my hands dirty. I'm happy to have a chat and find out if I can help you in any way.
 
-**Bold** and _Italic_ and `Code` text
+You can learn more about my experience from my [LinkedIn profile](https://www.linkedin.com/in/wynand-pieters/). I also intend to start blogging on this site in the near future.
 
-[Link](url) and ![Image](src)
-```
+### Aptitude
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I'm an achiever at heart and take great satisfaction from being busy and productive. I cannot just sit around doing nothing, it vexes me greatly. 
 
-### Jekyll Themes
+I am deliberative in my approach to problems, good at taking serious care when making decisions and anticipating obstacles. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wpieters/wpieters.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I enjoy the process of learning, of improving, and feel I'm talented at gathering all the information and delve deeply into the subject matter. 
 
-### Support or Contact
+I understand well how the past influences the present, and I believe one of my strengths is learning from history and applying those lessons to situations. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+On the people front, I recognise peoples strengths, their aptitudes, and their interests. I have mentored people before and have helped them grow, and with time can figure out how best to utilise people in a team and make them happiest and most productive.
+
+### Contact
+
+If you feel you'd like to chat about opportunities, please send me an [email](mailto:admin@wynandpieters.dev).
+
+### Other Interests
+
+I do have social media profiles which are currently somewhat inactive, and I will revive them over time.
+
+That said, in my spare time I play video games, and occasionally [stream](https://www.twitch.tv/duhblinn) them, I [read](https://www.goodreads.com/user/show/7853686-wynand-pieters) quite a bit, run a D&D game, play in a different D&D game, enjoy boardgames and wine with friends, travel with my lovely wife (who does amazing [art and music](https://www.instagram.com/_artbeme_/)), started working on my [first mobile game](https://duhblinnza.itch.io/), and occasionally lift [somewhat heavy weights](https://strengthlevel.com/10656-wynandpieters) (or I used to and I'm working back up to it).
