@@ -10,6 +10,6 @@ I started my consulting company after being retrenched from my last startup. Goi
 
 ### Services
 
-I focus on consulting on architecture, DevOps and process, but I do have years of coding experience and still love to get my hands dirty. I'm happy to have a chat and find out if I can help you in any way.
+I focus on consulting, primarily on architecture, DevOps and process, but I do have years of coding experience and still love to get my hands dirty, so I do freelance development as well. I'm happy to have a chat and find out if I can help you in any way.
 
-You can learn more about my experience from my [About](/about) page.
+You can learn more about my experience and how to contact me from my [About](/about) page.
