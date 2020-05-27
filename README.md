@@ -32,7 +32,7 @@ On the people front, I recognise peoples strengths, their aptitudes, and their i
 
 ### Contact
 
-If you feel you'd like to chat about opportunities, please send me an [email](mailto:admin@wynandpieters.dev).
+If you feel you'd like to chat about opportunities, please send me an [email](mailto:me@wynandpieters.dev).
 
 ### Other Interests
 
