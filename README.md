@@ -16,7 +16,7 @@ I'm always willing to learn and ready to change and adapt. Having a broad knowle
 
 I focus on consulting on architecture, DevOps and process, but I do have years of coding experience and still love to get my hands dirty. I'm happy to have a chat and find out if I can help you in any way.
 
-You can learn more about my experience from my [LinkedIn profile](https://www.linkedin.com/in/wynand-pieters/), and read my musings and rants about how software developemtn was _back in may day_ over at my [Dev.to profile](https://dev.to/wynandpieters).
+You can learn more about my experience from my [LinkedIn profile](https://www.linkedin.com/in/wynand-pieters/), and read my musings and rants about how software development was _back in may day_ over at my [Dev.to profile](https://dev.to/wynandpieters).
 
 ### Aptitude
 
