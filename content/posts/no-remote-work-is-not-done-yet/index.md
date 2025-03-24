@@ -4,7 +4,10 @@ date: 2023-04-18
 description: "A thoughtful exploration of why remote work isn't going anywhere, and why the future of work is more nuanced than binary choices"
 tags: ["remote-work", "future-of-work", "workplace", "opinion"]
 canonicalURL: "https://dev.to/wynandpieters/no-remote-work-is-not-done-yet-59d0"
-images: ["images/n0p6r1yec3pqblm12s77.png"]
+cover:
+    image: "posts/no-remote-work-is-not-done-yet/images/n0p6r1yec3pqblm12s77.png"
+    alt: "Cover image for No, Remote Work is not Done Yet"
+    caption: ""
 ---
 
 Today again, I was triggered. So here is a hastily written post about my thoughts.
