@@ -2,7 +2,7 @@
 title: "My Favourite Bash Feature"
 date: 2023-05-04
 description: "A quick tip about Bash history expansion that will make you look like a command line ninja"
-tags: ["bash", "linux", "tips", "productivity"]
+tags: ["dev-to", "bash", "linux", "tips", "productivity"]
 canonicalURL: "https://dev.to/wynandpieters/my-favourite-bash-feature-i5"
 ---
 

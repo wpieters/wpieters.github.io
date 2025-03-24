@@ -2,7 +2,7 @@
 title: "No, Remote Work is not Done Yet"
 date: 2023-03-24
 description: "A look at why remote work is here to stay, despite what some executives might want you to believe"
-tags: ["career", "remote-work", "future-of-work", "opinion"]
+tags: ["dev-to", "career", "remote-work", "future-of-work", "opinion"]
 canonicalURL: "https://dev.to/wynandpieters/no-remote-work-is-not-done-yet-59d0"
 cover:
     image: "posts/no-remote-work-is-not-done-yet/images/banner.png"
