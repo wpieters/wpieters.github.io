@@ -4,6 +4,10 @@ date: 2024-09-30
 description: "Progress update on bug fixes, UI improvements, and discovering a similar game concept"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/807633/you-snooze-you-lose-"
+cover:
+    image: "posts/you-snooze-you-lose/images/banner.png"
+    alt: "Cover image for You snooze you lose"
+    caption: ""
 ---
 
 Just a quick general update, I'm still working on bugs, I've got some ironed out, but found a few more small ones, should have a new build out by end of week.

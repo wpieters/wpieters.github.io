@@ -4,6 +4,10 @@ date: 2024-08-21
 description: "Update on resuming development for So This Is How I DIE after a hiatus"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/785545/time-doesnt-necessarily-happen-in-chronological-order"
+cover:
+    image: "posts/time-doesnt-necessarily-happen-in-chronological-order/images/banner.jpg"
+    alt: "Cover image for Time doesn't necessarily happen in chronological order"
+    caption: ""
 ---
 
 And neither does development on this game apparently 😅
