@@ -5,7 +5,7 @@ description: "Exploring Fabric and Continue.dev as powerful AI tools for develop
 tags: ["ai", "tools", "productivity"]
 canonicalURL: "https://dev.to/wynandpieters/my-two-favorite-ai-tools-that-i-dont-see-enough-people-talking-about-4j9o"
 cover:
-    image: "images/banner.jpg"
+    image: "posts/my-two-favorite-ai-tools/images/banner.jpg"
     alt: "Cover image for My two favorite AI tools"
     caption: ""
 ---
