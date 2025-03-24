@@ -97,11 +97,5 @@ Personally, I think the future is a flexible hybrid policy, where companies allo
 
 But of course, this is just an opinion. Change my mind.
 
-![Office Space meme about remote work](images/office-space.jpeg)
-
-![Remote work statistics](images/remote-work-stats.jpg)
-
-![That's the neat part, you don't GIF](images/thats-the-neat-part.gif)
-
 ---
 *This post was originally published on [dev.to](https://dev.to/wynandpieters/no-remote-work-is-not-done-yet-59d0)* 
