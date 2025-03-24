@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My NEW Blog"
-date: 2024-03-24
+date: 2025-03-25
 description: "A fresh start with Hugo"
 tags: ["blog", "personal"]
 draft: false
