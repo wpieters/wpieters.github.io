@@ -5,7 +5,7 @@ description: "Exploring the impact of AI tools on developer skills and industry 
 tags: ["ai", "career", "industry"]
 canonicalURL: "https://dev.to/wynandpieters/ai-tools-are-we-replacing-skills-or-enhancing-them-28n"
 cover:
-    image: "images/banner.jpg"
+    image: "posts/ai-tools-replacing-or-enhancing-skills/images/banner.jpg"
     alt: "Cover image for AI Tools: Are We Replacing Skills or Enhancing Them?"
     caption: ""
 ---
