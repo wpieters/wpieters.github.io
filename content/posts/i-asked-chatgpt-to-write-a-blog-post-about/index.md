@@ -1,12 +1,12 @@
 ---
-title: "I asked ChatGPT to write a blog post about..."
-date: 2023-01-17
-description: "A reflection on developer motivations and the importance of focusing on code over compensation"
-tags: ["career", "motivation", "chatgpt", "programming"]
+title: "I Asked ChatGPT to Write a Blog Post About..."
+date: 2023-03-10
+description: "An experiment with ChatGPT to see how well it can write blog posts"
+tags: ["ai", "chatgpt", "writing", "experiment"]
 canonicalURL: "https://dev.to/wynandpieters/i-asked-chatgpt-to-write-a-blog-post-about-5h59"
 cover:
-    image: "posts/i-asked-chatgpt-to-write-a-blog-post-about/images/fso52s8sc9dsektxez05.png"
-    alt: "Cover image for I asked ChatGPT to write a blog post about..."
+    image: "posts/i-asked-chatgpt-to-write-a-blog-post-about/images/banner.png"
+    alt: "Cover image for I Asked ChatGPT to Write a Blog Post About..."
     caption: ""
 ---
 
@@ -20,7 +20,9 @@ I've made some choices in my career that where definitely motivated by money, an
 
 Anyway, enough waffling and intro'ing. Here is what ChatGPT had to say on the topic. I asked it to include the Carmack quote as well. Happy reading, and let me know your thoughts on ChatGPTs "opinion".
 
-![screenshot of chatGPT output](images/o8o9ncd69edps0r3ydsq.png)
+![ChatGPT Prompt](images/chatgpt-prompt.png)
+
+![ChatGPT Response](images/chatgpt-response.png)
 
 So there it is. Oh, and then
 
