@@ -2,7 +2,7 @@
 title: "Why AI, No Code & Low Code WON'T Replace Junior and Mid-Level Devs (Yet)"
 date: 2023-03-17
 description: "A deep dive into why AI, No Code, and Low Code tools won't replace developers, and how they'll transform the industry instead"
-tags: ["ai", "lowcode", "programming", "career", "future-of-tech"]
+tags: ["dev-to", "ai", "lowcode", "programming", "career", "future-of-tech"]
 canonicalURL: "https://dev.to/wynandpieters/why-ai-no-code-low-code-wont-replace-junior-and-mid-level-devs-its-time-to-debunk-the-myth-48h9"
 cover:
     image: "posts/why-ai-no-code-low-code-wont-replace-junior-and-mid-level-devs/images/banner.png"

@@ -2,7 +2,7 @@
 title: "My two favorite AI tools (that I don't see enough people talking about)"
 date: 2024-10-14
 description: "Exploring Fabric and Continue.dev as powerful AI tools for developers"
-tags: ["ai", "tools", "productivity"]
+tags: ["dev-to", "ai", "tools", "productivity"]
 canonicalURL: "https://dev.to/wynandpieters/my-two-favorite-ai-tools-that-i-dont-see-enough-people-talking-about-4j9o"
 cover:
     image: "posts/my-two-favorite-ai-tools/images/banner.jpg"
