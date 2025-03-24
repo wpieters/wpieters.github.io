@@ -50,6 +50,12 @@ My broad knowledge base, coupled with a dedication to continuous learning and im
 [[params.socialIcons]]
   name = "dev"
   url = "https://dev.to/wynandpieters"
+[[params.socialIcons]]
+  name = "itchio"
+  url = "https://duhblinnza.itch.io/"
+[[params.socialIcons]]
+  name = "linktree"
+  url = "https://linktr.ee/wynandpieters.dev"
 
 [[menu.main]]
   identifier = "home"
