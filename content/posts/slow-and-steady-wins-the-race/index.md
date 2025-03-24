@@ -4,6 +4,10 @@ date: 2025-02-24
 description: "Progress update on UI tweaks and VFX animations for skills in So This Is How I DIE"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/892967/slow-and-steady-wins-the-race"
+cover:
+    image: "posts/slow-and-steady-wins-the-race/images/banner.png"
+    alt: "Cover image for Slow and steady wins the race"
+    caption: ""
 ---
 
 Hey folks. Just a quick update that I finally have everything configured and running again on my new laptop. I've also just come off a crazy amount of overtime, so hopefully these updates will become more frequent.
