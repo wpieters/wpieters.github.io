@@ -5,7 +5,7 @@ description: "Applying Bruce Lee's philosophy to software development and career
 tags: ["career", "philosophy", "growth"]
 canonicalURL: "https://dev.to/wynandpieters/be-water-my-friend-my-tao-of-software-development-5jn"
 cover:
-    image: "posts/be-water-my-friend/images/banner.png"
+    image: "images/banner.png"
     alt: "Cover image for Be water, my friend"
     caption: ""
 ---
