@@ -8,7 +8,7 @@ I started doing coding examples out of the "Teach Yourself BASIC" book on my dad
 
 Did B.EngSci (Computer Systems), a combination of B.Sc (CompSci) and Electronic Engineering, after which I started my professional software engineering career. Turns out that me and electronics aren't quite BFFs, I decided to focus on software. Ended up doing a lot of Java, Groovy and Javascript for a long time, but playing with C++, C# and Ruby in my spare time. Lots of enterprise Java; big financial and Customs systems on Webspehere and Weblogic. This was followed by cloud development doing Scala and Go microservices, and later serverless development in Python and Go on AWS.
 
-After being retrenched from my last job when the company was declared insolvent, I decided to go into consulting sooner rather than later, pulling on my 13 years industry experience and 25+ years of just loving technology and learning in order to help companies grow and learn from mistakes I've seen made often.
+After being retrenched from my last job when the company was declared insolvent, I decided to go into consulting sooner rather than later, pulling on my 15 years industry experience and 30+ years of just loving technology and learning in order to help companies grow and learn from mistakes I've seen made often.
 
 I'm always willing to learn and ready to change and adapt. Having a broad knowledge base and experience in different aspects of making software, coupled with my willingness to learn and dedication in making great software, is what I feel separates me from the pack. Always looking for ways to improve the entire SDLC for providing better quality software faster.
 

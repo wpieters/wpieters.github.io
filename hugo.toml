@@ -1,0 +1,64 @@
+baseURL = 'https://wpieters.github.io/'
+languageCode = 'en-us'
+title = 'Wynand Pieters'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  title = "Wynand Pieters"
+  description = "Personal blog"
+  keywords = ["blog", "personal"]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+[params.profileMode]
+  enabled = true
+  title = "Wynand Pieters"
+  subtitle = """
+Software engineering consultant with over 15 years of industry experience and 30+ years of passion for technology. Starting from BASIC on a Sinclair ZX Spectrum, I've grown through various technologies including Java, Groovy, Scala, Go, and cloud development.
+
+After years in enterprise systems and cloud architecture, I now focus on helping companies build better infrastructure, processes, and teams. I specialize in architecture, DevOps, and process optimization, while still enjoying hands-on coding.
+
+My broad knowledge base, coupled with a dedication to continuous learning and improving the entire software development lifecycle, drives me to help companies grow and learn from common industry mistakes.
+"""
+  imageUrl = "https://avatars.githubusercontent.com/wpieters"
+  imageTitle = "Wynand Pieters"
+  imageWidth = 160
+  imageHeight = 160
+  imageLink = "https://github.com/wpieters"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/wpieters"
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/wynand-pieters/"
+[[params.socialIcons]]
+  name = "dev"
+  url = "https://dev.to/wynandpieters"
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = -90
