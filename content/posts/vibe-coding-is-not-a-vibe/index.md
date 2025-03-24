@@ -5,7 +5,7 @@ description: "A candid reflection on AI coding tools like Cursor and Windsurf"
 tags: ["linkedin", "ai", "tools", "development", "coding"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_aitools-softwaredevelopment-devtools-activity-7307745341741654016-HRDC"
 cover:
-    image: "posts/vibe-coding-is-not-a-vibe/images/banner.png"
+    image: "posts/vibe-coding-is-not-a-vibe/images/banner2.png"
     alt: "Cover image for Vibe coding is not a vibe"
     caption: ""
 ---
