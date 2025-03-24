@@ -4,6 +4,10 @@ date: 2023-03-17
 description: "A deep dive into why AI, No Code, and Low Code tools won't replace developers, and how they'll transform the industry instead"
 tags: ["ai", "lowcode", "programming", "career", "future-of-tech"]
 canonicalURL: "https://dev.to/wynandpieters/why-ai-no-code-low-code-wont-replace-junior-and-mid-level-devs-its-time-to-debunk-the-myth-48h9"
+cover:
+    image: "posts/why-ai-no-code-low-code-wont-replace-junior-and-mid-level-devs/images/b88na987zixtyqs8it6w.png"
+    alt: "Cover image for Why AI, No Code & Low Code WON'T Replace Junior and Mid-Level Devs"
+    caption: ""
 ---
 
 > I originally started writing this post at the end of 2022 but never finished it. Originally titled "Why LowCode/NoCode both excites and terrifies me!", with the buzz around ChatGPT over the last months, I decided to 1) finish the post, and 2) update it to include AI tools like CoPilot and ChatGPT. So here, finally, is the update. Also a little different to my usual style. I didn't like it.
