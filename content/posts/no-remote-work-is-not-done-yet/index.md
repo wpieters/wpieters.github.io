@@ -1,11 +1,11 @@
 ---
 title: "No, Remote Work is not Done Yet"
-date: 2023-04-18
-description: "A thoughtful exploration of why remote work isn't going anywhere, and why the future of work is more nuanced than binary choices"
-tags: ["remote-work", "future-of-work", "workplace", "opinion"]
+date: 2023-03-24
+description: "A look at why remote work is here to stay, despite what some executives might want you to believe"
+tags: ["career", "remote-work", "future-of-work", "opinion"]
 canonicalURL: "https://dev.to/wynandpieters/no-remote-work-is-not-done-yet-59d0"
 cover:
-    image: "posts/no-remote-work-is-not-done-yet/images/n0p6r1yec3pqblm12s77.png"
+    image: "posts/no-remote-work-is-not-done-yet/images/banner.png"
     alt: "Cover image for No, Remote Work is not Done Yet"
     caption: ""
 ---
@@ -96,6 +96,12 @@ And no, I don't think remote work is the future and everyone must adapt or die. 
 Personally, I think the future is a flexible hybrid policy, where companies allow teams who work better remotely to do that, but they have offices available for those who prefer or need that. And where we can encourage people to get together and just be human with each other.
 
 But of course, this is just an opinion. Change my mind.
+
+![Office Space meme about remote work](images/office-space.jpeg)
+
+![Remote work statistics](images/remote-work-stats.jpg)
+
+![That's the neat part, you don't GIF](images/thats-the-neat-part.gif)
 
 ---
 *This post was originally published on [dev.to](https://dev.to/wynandpieters/no-remote-work-is-not-done-yet-59d0)* 

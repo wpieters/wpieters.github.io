@@ -5,7 +5,7 @@ description: "A deep dive into why AI, No Code, and Low Code tools won't replace
 tags: ["ai", "lowcode", "programming", "career", "future-of-tech"]
 canonicalURL: "https://dev.to/wynandpieters/why-ai-no-code-low-code-wont-replace-junior-and-mid-level-devs-its-time-to-debunk-the-myth-48h9"
 cover:
-    image: "posts/why-ai-no-code-low-code-wont-replace-junior-and-mid-level-devs/images/b88na987zixtyqs8it6w.png"
+    image: "posts/why-ai-no-code-low-code-wont-replace-junior-and-mid-level-devs/images/banner.png"
     alt: "Cover image for Why AI, No Code & Low Code WON'T Replace Junior and Mid-Level Devs"
     caption: ""
 ---
