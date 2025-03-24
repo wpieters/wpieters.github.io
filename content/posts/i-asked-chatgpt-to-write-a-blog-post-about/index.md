@@ -4,6 +4,10 @@ date: 2023-01-17
 description: "A reflection on developer motivations and the importance of focusing on code over compensation"
 tags: ["career", "motivation", "chatgpt", "programming"]
 canonicalURL: "https://dev.to/wynandpieters/i-asked-chatgpt-to-write-a-blog-post-about-5h59"
+cover:
+    image: "posts/i-asked-chatgpt-to-write-a-blog-post-about/images/fso52s8sc9dsektxez05.png"
+    alt: "Cover image for I asked ChatGPT to write a blog post about..."
+    caption: ""
 ---
 
 ... why developers should focus more on code than how much they make. Been meaning to do this myself for a while as a discussion post, but haven't gotten around to it.
