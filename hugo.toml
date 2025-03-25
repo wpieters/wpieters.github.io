@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'Wynand Pieters'
 theme = 'PaperMod'
 
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 4
+
 [params]
   env = "production"
   title = "Wynand Pieters"
@@ -30,13 +36,7 @@ theme = 'PaperMod'
 [params.profileMode]
   enabled = true
   title = "Wynand Pieters"
-  subtitle = """
-Software engineering consultant with over 15 years of industry experience and 30+ years of passion for technology. Starting from BASIC on a Sinclair ZX Spectrum, I've grown through various technologies including Java, Groovy, Scala, Go, and cloud development.
-
-After years in enterprise systems and cloud architecture, I now focus on helping companies build better infrastructure, processes, and teams. I specialize in architecture, DevOps, and process optimization, while still enjoying hands-on coding.
-
-My broad knowledge base, coupled with a dedication to continuous learning and improving the entire software development lifecycle, drives me to help companies grow and learn from common industry mistakes.
-"""
+  subtitle = "Software Engineering Consultant | DevOps & Architecture | Indie Game Developer"
   imageUrl = "https://avatars.githubusercontent.com/wpieters"
   imageTitle = "Wynand Pieters"
   imageWidth = 160
