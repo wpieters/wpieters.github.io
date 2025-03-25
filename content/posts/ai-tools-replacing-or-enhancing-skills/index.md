@@ -2,7 +2,8 @@
 title: "AI Tools: Are We Replacing Skills or Enhancing Them? (and at what cost)"
 date: 2025-02-27
 description: "Exploring the impact of AI tools on developer skills and industry standards"
-tags: ["dev-to", "ai", "career", "industry"]
+tags: ["ai", "career", "industry"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/ai-tools-are-we-replacing-skills-or-enhancing-them-28n"
 cover:
     image: "posts/ai-tools-replacing-or-enhancing-skills/images/banner.jpg"
