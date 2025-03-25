@@ -3,6 +3,7 @@ title: "ChatGPT has made me more productive (but at what cost?)"
 date: 2023-07-14
 description: "A reflection on how AI tools like ChatGPT can increase productivity but might lead to skill degradation"
 tags: ["dev-to", "ai", "chatgpt", "productivity", "career", "opinion"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/my-love-hate-relationship-with-chatgpt-the-unexpected-cost-of-productivity-76m"
 cover:
     image: "posts/chatgpt-has-made-me-more-productive/images/banner.png"

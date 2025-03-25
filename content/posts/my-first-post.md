@@ -3,6 +3,7 @@ title: "Welcome to My NEW Blog"
 date: 2025-03-25
 description: "A fresh start with Hugo"
 tags: ["blog", "personal"]
+categories: ["personal"]
 draft: false
 ---
 

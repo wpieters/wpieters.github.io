@@ -3,6 +3,7 @@ title: "Why on earth does no-one want to code anymore!?!"
 date: 2025-02-24
 description: "Thoughts on voice coding, AI tools, and the importance of accessibility in tech"
 tags: ["linkedin", "accessibility", "ai", "coding", "tech-inclusion"]
+categories: ["personal"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_accessibility-techinclusion-softwaredevelopment-activity-7297871555747889152-uWSr"
 cover:
     image: "posts/why-on-earth-does-no-one-want-to-code-anymore/images/banner.png"

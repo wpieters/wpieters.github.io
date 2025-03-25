@@ -3,6 +3,7 @@ title: "What I learned from making my first game (and how my approach changed fo
 date: 2024-02-05
 description: "A reflection on the lessons learned from game development and how they differ from traditional software development"
 tags: ["dev-to", "gamedev", "unity", "learning", "indie"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/what-i-learned-from-making-my-first-game-and-how-my-approach-changed-for-the-second-one-3dea"
 cover:
     image: "posts/what-i-learned-from-making-my-first-game/images/banner.png"

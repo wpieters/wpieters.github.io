@@ -3,6 +3,7 @@ title: "Slow and steady wins the race?"
 date: 2025-02-24
 description: "Progress update on UI tweaks and VFX animations for skills in So This Is How I DIE"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog"]
+categories: ["game-dev"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/892967/slow-and-steady-wins-the-race"
 cover:
     image: "posts/slow-and-steady-wins-the-race/images/banner.png"

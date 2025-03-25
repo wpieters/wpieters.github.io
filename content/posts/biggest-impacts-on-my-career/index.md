@@ -3,6 +3,7 @@ title: "Biggest Impacts on my Career"
 date: 2022-11-11
 description: "A reflection on the key influences and practices that shaped my software development career"
 tags: ["dev-to", "career", "learning", "programming", "self-improvement"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/biggest-impacts-on-my-career-9el"
 ---
 

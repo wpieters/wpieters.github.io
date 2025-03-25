@@ -3,6 +3,7 @@ title: "I'm having a hard time"
 date: 2025-03-01
 description: "Reflections on the challenges of solo game development and staying motivated"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog", "personal"]
+categories: ["game-dev"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/895689/im-having-a-hard-time"
 cover:
     image: "posts/im-having-a-hard-time/images/banner2.png"
