@@ -3,6 +3,7 @@ title: "Why You're NOT an Engineer (also Why It [Probably] Doesn't Matter)"
 date: 2024-09-17
 description: "A reflection on software development titles and the importance (or lack thereof) of being called an engineer"
 tags: ["dev-to", "career", "opinion", "discuss"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/why-youre-not-an-engineer-also-why-it-probably-doesnt-matter-egb"
 cover:
     image: "posts/why-youre-not-an-engineer/images/banner.png"

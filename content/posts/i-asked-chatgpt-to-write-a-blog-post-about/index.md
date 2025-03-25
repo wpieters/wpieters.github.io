@@ -3,6 +3,7 @@ title: "I Asked ChatGPT to Write a Blog Post About..."
 date: 2023-03-10
 description: "An experiment with ChatGPT to see how well it can write blog posts"
 tags: ["dev-to", "ai", "chatgpt", "writing", "experiment"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/i-asked-chatgpt-to-write-a-blog-post-about-5h59"
 cover:
     image: "posts/i-asked-chatgpt-to-write-a-blog-post-about/images/banner.png"

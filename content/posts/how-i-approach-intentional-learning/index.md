@@ -3,6 +3,7 @@ title: "How I Approach Intentional Learning"
 date: 2022-11-25
 description: "Tips and lessons learned about making learning a consistent and effective habit"
 tags: ["dev-to", "learning", "productivity", "career", "self-improvement"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/how-i-approach-intentional-learning-1g9o"
 ---
 

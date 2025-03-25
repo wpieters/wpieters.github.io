@@ -3,6 +3,7 @@ title: "Animations are animating. Finally."
 date: 2025-03-07
 description: "Progress update on animations, VFX, and particle effects in So This Is How I DIE"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog"]
+categories: ["game-dev"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/900509/animations-are-animating-finally"
 cover:
     image: "posts/animations-are-animating-finally/images/banner.png"

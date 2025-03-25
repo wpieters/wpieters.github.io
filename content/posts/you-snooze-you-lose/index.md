@@ -3,6 +3,7 @@ title: "You snooze you lose 😴"
 date: 2024-09-30
 description: "Progress update on bug fixes, UI improvements, and discovering a similar game concept"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog"]
+categories: ["game-dev"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/807633/you-snooze-you-lose-"
 cover:
     image: "posts/you-snooze-you-lose/images/banner.png"

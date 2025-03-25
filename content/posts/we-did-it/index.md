@@ -3,6 +3,7 @@ title: "We did it!"
 date: 2024-03-01
 description: "Alpha release announcement for So This Is How I DIE with builds for Windows, MacOS, and Android"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog", "release"]
+categories: ["game-dev"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/690449/we-did-it-"
 ---
 

@@ -3,6 +3,7 @@ title: "How I Would Learn To Code (If I Could Start Over)"
 date: 2023-05-15
 description: "A reflection on learning to code in the age of ZX Spectrum and BASIC, and why sometimes the old ways might be the best ways"
 tags: ["dev-to", "learning", "programming", "career", "nostalgia"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/how-i-would-learn-to-code-if-i-could-start-over-4757"
 cover:
     image: "posts/how-i-would-learn-to-code-if-i-could-start-over/images/banner.png"

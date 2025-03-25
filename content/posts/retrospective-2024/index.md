@@ -3,6 +3,7 @@ title: "Retrospective: 2024"
 date: 2024-12-27
 description: "Reflecting on a year of challenges and opportunities, both personal and professional"
 tags: ["linkedin", "personal", "entrepreneurship", "reflection", "goals"]
+categories: ["personal"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_entrepreneurship-softwareengineering-gamedev-activity-7280120065625120768-zONm"
 cover:
     image: "posts/retrospective-2024/images/banner.png"

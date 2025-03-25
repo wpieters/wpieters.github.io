@@ -3,6 +3,7 @@ title: "AI is coming for our jobs! Again? Still? No?"
 date: 2025-01-21
 description: "A skeptical take on the recurring claims that AI will replace software developers"
 tags: ["linkedin", "ai", "software-development", "tech-industry", "careers"]
+categories: ["personal"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_softwaredevelopment-ai-techindustry-activity-7285624292912828416-FR4K"
 cover:
     image: "posts/ai-is-coming-for-our-jobs-again-still-no/images/banner.png"

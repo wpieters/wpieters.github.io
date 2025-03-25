@@ -3,6 +3,7 @@ title: "I miss being a code monkey (but guiding the troop has its own charm)"
 date: 2023-08-02
 description: "A reflection on transitioning from individual contributor to team lead, and finding balance between coding and leadership"
 tags: ["dev-to", "career", "leadership", "management", "personal-growth"]
+categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/i-miss-being-a-code-monkey-but-guiding-the-troop-has-its-own-charm-226k"
 cover:
     image: "posts/i-miss-being-a-code-monkey/images/banner.png"

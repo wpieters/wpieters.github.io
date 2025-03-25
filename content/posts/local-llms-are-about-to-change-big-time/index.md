@@ -3,6 +3,7 @@ title: "Local LLMs are about to change big time (probably for the better)"
 date: 2025-03-12
 description: "Exploring the implications of Apple's new Mac Studio with M3 Ultra for local LLM capabilities"
 tags: ["linkedin", "ai", "llm", "apple", "hardware"]
+categories: ["personal"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_applesilicon-m3ultra-macstudio-activity-7305140487173136384-F73i"
 cover:
     image: "posts/local-llms-are-about-to-change-big-time/images/banner.jpeg"

@@ -3,6 +3,7 @@ title: "Thank you 🫶 (also, what's next)"
 date: 2024-03-11
 description: "Gratitude for feedback on the alpha release and plans for future development of So This Is How I DIE"
 tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog", "roadmap"]
+categories: ["game-dev"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/695990/thank-you-also-whats-next"
 ---
 
