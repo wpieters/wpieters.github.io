@@ -25,8 +25,8 @@ A seasoned engineer with 20+ years of deep experience vs a tech-bro CEO who just
 Yes, this is another vibe coding rant. Kind of.
 
 Every day we see more headlines like:
-"AI will replace 90% of tech jobs in 2 years!"
-"AI writes 30% of our code now!"
+- "AI will replace 90% of tech jobs in 2 years!"
+- "AI writes 30% of our code now!"
 
 And I keep thinking (and often saying out loud to anyone who’ll listen) how many of these people are making decisions about things they barely understand. It’s Gell-Mann Amnesia meets Dunning-Kruger meets shareholder returns.
 
@@ -53,7 +53,7 @@ And I for one worry about the future.
 
 Not because AI is coming for my job.
 
-But because when I die, there will be no one left who is smarter than the AI.
+But because when my generation dies, there will be no one left who is smarter than the AI.
 
 ---
 *This post was originally published on [LinkedIn](https://www.linkedin.com/posts/wynand-pieters_the-gell-mann-amnesia-effect-it-describes-activity-7349330245272989696-6km_)* 
