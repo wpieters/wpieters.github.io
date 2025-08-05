@@ -34,7 +34,7 @@ Meanwhile, juniors are struggling to get hired. Companies are replacing entry-le
 
 And it feels like no one is thinking 5–10 years down the line.
 
-I've said it before, but if we don’t invest in and mentor the next generation of hackers, how exactly are we planning to maintain, improve, or build anything worth using? The talent pipeline dries up, and people capable of pushing real technologic boundaries disappear. Or even worse for the vibe-coding tech bros; the pipeline of people capable of building and training future AI models you rely on, are built by less equipped individuals.
+I've said it before, but if we don't invest in and mentor the next generation of hackers, how exactly are we planning to maintain, improve, or build anything worth using? The talent pipeline dries up, and people capable of pushing real technological boundaries disappear. Or even worse for the vibe-coding tech bros; the pipeline of people capable of building and training future AI models you rely on, are built by less equipped individuals.
 
 Bill Gates once paraphrased futurist Roy Amara, saying:
 
