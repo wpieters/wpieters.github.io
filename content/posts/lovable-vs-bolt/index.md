@@ -36,8 +36,17 @@ Will it become my go-to for building things? Hell no. I need to get my hands dir
 
 Next, I still want to pit Warp against Claude Code in Ghostty.
 
+## Lovable
+### Prompt
 ![Screenshot of Lovable Prompt and First Response](images/lovable_prompt.png)
+### Result
+![Screenshot of Lovable Result](images/lovable-screenshot.png)
+
+## Bolt(dot)new
+### Prompt
 ![Screenshot of Bolt Prompt and First Response](images/boltnew_prompt.png)
+### Result
+![Screenshot of Bolt Result](images/bolt-new-screenshot.png)
 
 ---
 *This post was originally published on [LinkedIn](https://www.linkedin.com/posts/wynand-pieters_aitools-nocode-lowcode-activity-7358426185355120641-Tjza)* 
