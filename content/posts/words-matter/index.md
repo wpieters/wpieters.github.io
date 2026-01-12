@@ -46,5 +46,6 @@ But coders? Programmers? Those who can only produce code but not build systems b
 Yeah. AI has already replaced those. Because guess what, it's pretty good at generating code.
 
 But being a developer or engineer? No. The AI is just a tool that makes those roles more productive.
+
 ---
 *This post was originally published on [LinkedIn](https://www.linkedin.com/posts/wynand-pieters_softwareengineering-ai-futureofwork-activity-7415311087723843584-6bwx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALRdvUB-ZlGxXp4zNgaZSFrG5hKPM5Z_jU)* 
