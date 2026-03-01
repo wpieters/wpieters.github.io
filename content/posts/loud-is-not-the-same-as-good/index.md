@@ -97,7 +97,7 @@ But I'm literally enacting the thesis while writing about it, which is either ve
 
 I did draft a LinkedIn version of this. A few versions actually; punchy, numbered, ends with a question to drive comments. They were fine. But the format would have sanded off all the interesting edges. The ambivalence. The personal confession. The part where I admit social media kind of breaks my soul. LinkedIn wants the clean lesson. Not the messy truth underneath it.
 
-![Expanding brain meme - Small brain: "LinkedIn post". Medium brain: "blog post with SEO strategy". Large brain: "Hugo site, no tracking, one link in your bio". Galaxy brain: "no socials, no hype, just build, ship and profit"](images/drake-no-yes-meme.jpg)
+![Drake meme - No: "optimising your LinkedIn profile and posts for maximum engagement at 11pm". Yes: "doing the work and letting it speak for itself"](images/drake-no-yes-meme.jpg)
 
 So here it is instead, on a quiet corner of the internet, unoptimised and untracked.
 
