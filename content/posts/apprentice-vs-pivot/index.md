@@ -15,7 +15,7 @@ This came up in my feeds today.
 
 ![X post about Reddit post about people leaving tech](images/1769488751291.jpeg)
 
-I’ve said it before and I’ll keep saying it until I can’t anymore: never before has there been a time where we needed to be more intentional about training and mentoring juniors than now.
+[I’ve said it before](/posts/why-ai-no-code-low-code-wont-replace-junior-and-mid-level-devs/#building-a-new-generation-of-hackers-the-importance-of-mentorship-and-skill-development) and I’ll keep saying it until I can’t anymore: never before has there been a time where we needed to be more intentional about training and mentoring juniors than now.
 
 As much as I love and use it, my biggest worry with current AI tooling has always been that it takes the thinking and understanding away from you. This is different from previous coding tools. Many just obfuscated or abstracted concepts, others assisted with tedious tasks, but this time the tool does it all. And it’s making us lazy, and it’s making us less capable. Studies are starting to show this.
 
