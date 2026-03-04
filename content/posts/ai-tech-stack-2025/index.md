@@ -3,7 +3,7 @@ title: "Tools I'm Using in 2025 (not that anyone asked)"
 date: 2025-06-03
 description: "A look at what makes me more productive in 2025"
 tags: ["dev-to", "ai", "career", "industry", "tooling"]
-categories: ["tech"]
+categories: ["tech", "personal"]
 canonicalURL: "https://dev.to/wynandpieters/tools-im-using-in-2025-not-that-anyone-asked-42l9"
 cover:
     image: "posts/ai-tech-stack-2025/images/banner.png"
