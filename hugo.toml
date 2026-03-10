@@ -43,6 +43,10 @@ weight = 50
   imageHeight = 160
   imageLink = "https://github.com/wpieters"
 
+[params.author]
+  name = "Wynand Pieters"
+  email = "me@wynandpieters.dev"
+
 [[params.socialIcons]]
   name = "github"
   url = "https://github.com/wpieters"
