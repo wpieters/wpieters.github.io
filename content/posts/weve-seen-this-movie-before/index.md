@@ -160,7 +160,7 @@ I'm not arguing the tools are bad. I use them. They're genuinely useful, and in 
  
 But we have got to stop celebrating velocity as a virtue in isolation.
  
-"I shipped in 4 hours" is not impressive if nobody audited the auth, if the database can be wiped by an agent on day eight, if 72,000 user images are sitting in an open endpoint. The barrier to creation collapsed. The barrier to understanding what you created did not.
+"I shipped in 4 hours" is not impressive if nobody audited the auth, if the database can be wiped by an agent on day eight, if 72,000 user images are sitting in an open endpoint. The barrier to creation collapsed. The barrier to [understanding what you created](/posts/fundamentals-matter/) did not.
  
 The Hollow Knights of software are coming. I genuinely believe that. Teams who use AI as an accelerant for real vision, who understand their codebase, who care about what they're putting in front of users. They'll emerge from this era the way the great indie games emerged from the shovelware swamp.
  
