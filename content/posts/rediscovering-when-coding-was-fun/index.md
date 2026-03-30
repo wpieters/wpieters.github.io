@@ -43,13 +43,11 @@ Around the time I started writing this post, I had a conversation with my brothe
  
 That last line. Man.
 
-Mind. Blown.
+![The Universe Tim And Eric Mind Blown GIF](images/mind-blown.gif)
 
 That's the whole thing, right there, said so casually.
  
 *I get to think for myself a bit.*
-
-![The Universe Tim And Eric Mind Blown GIF](images/mind-blown.gif)
  
 I've been trying to unpack why that sentence hit so hard ever since.
  
@@ -177,4 +175,4 @@ And there is something liberating about that. Even when it looks like this.
  
 ---
  
-*[So This Is How I Die](https://duhblinnza.itch.io/so-this-is-how-i-die) is an in-development roguelite dice game. The [devlog lives over on itch.io](https://duhblinnza.itch.io/so-this-is-how-i-die/devlog), and yes, before you ask, it's fine, I'm going back to it. Now stop reading, and go make tiny games.*
+*[So This Is How I Die](https://duhblinnza.itch.io/so-this-is-how-i-die) is an in-development roguelite dice game. The [devlog lives over on itch.io](https://duhblinnza.itch.io/so-this-is-how-i-die/devlog), and yes, before you ask, it's fine, I'm going back to it. [Ash Crest](https://duhblinnza.itch.io/ash-crest) is a Fire Emblem inspired turn-based strategy that I'm building for the PICO-8. Now stop reading, and go make tiny games.*
