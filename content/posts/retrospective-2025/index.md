@@ -4,7 +4,7 @@ date: 2026-03-04
 description: "Reflecting on a year of challenges and opportunities, both personal and professional"
 tags: ["personal", "entrepreneurship", "reflection", "goals"]
 categories: ["personal"]
-canonicalURL: "https://wynandpieters.com/posts/retrospective-2025/"
+canonicalURL: "https://wynandpieters.dev/posts/retrospective-2025/"
 cover:
     image: "posts/retrospective-2025/images/banner.png"
     alt: "Cover image for Retrospective: 2025"

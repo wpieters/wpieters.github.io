@@ -4,7 +4,7 @@ date: 2025-08-19
 description: "Reflections on why AI coding tools feel satisfying but don't lead to real learning"
 tags: ["ai", "tools", "development", "coding"]
 categories: ["tech"]
-canonicalURL: "https://wynandpieters.com/posts/vibe-coding-dopamine-hit/"
+canonicalURL: "https://wynandpieters.dev/posts/vibe-coding-dopamine-hit/"
 cover:
     image: "posts/vibe-coding-dopamine-hit/images/banner.png"
     alt: "Cover image for Dopamine hits and the illusion of progress in AI coding"

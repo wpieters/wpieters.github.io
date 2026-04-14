@@ -4,7 +4,7 @@ date: 2026-02-24
 description: "A rant on the OpenClaw situation"
 tags: ["tech", "ai", "future-of-tech", "opinion", "security", "social-media", "ethics", "responsibility"]
 categories: ["tech"]
-canonicalURL: "https://wynandpieters.com/posts/openclaw-wtf/"
+canonicalURL: "https://wynandpieters.dev/posts/openclaw-wtf/"
 cover:
     image: "posts/openclaw-wtf/images/banner.jpg"
     alt: "Cover image for How on earth did we get here?"

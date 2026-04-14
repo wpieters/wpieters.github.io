@@ -4,7 +4,7 @@ date: 2025-08-05
 description: "Or rather, the lack thereof"
 tags: ["standards", "tech", "ai", "future-of-tech", "opinion", "ethics"]
 categories: ["tech"]
-canonicalURL: "https://wynandpieters.com/posts/standards"
+canonicalURL: "https://wynandpieters.dev/posts/standards"
 cover:
     image: "posts/standards/images/banner.jpg"
     alt: "Cover image for Standards"
