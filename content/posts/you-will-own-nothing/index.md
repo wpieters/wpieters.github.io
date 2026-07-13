@@ -132,6 +132,18 @@ Obviously I know nothing, because I'm just some poor schmuck who likes to play g
 
 Assuming I can still access it, of course.
 
+## Update (2026-07-13)
+
+This weekend I was thinking a lot about this and what this means for my favourite hobby and my continued enjoyment of it. I don't like making knee-jerk reactions, but at the moment my thinking is this:
+
+- I've already cancelled my Game Pass when the previous increases happened, and I'm gonna cancel my PS+ as well. I don't play online that often, the F2P games I do play don't need the subscription, and the "free" games they give me every month is locked behind the subscription, so they aren't really free, are they?
+- I'm starting to look for physical or DRM free copies of games I already own on Steam and Epic on whatever platform I can get them, just so that I have a copy for preservation purposes, even if they aren't the "best" version of that game. I want to know that in 20 years, regardless of what Sony, Microsoft or Ninentdo decide, I have a version that will keep working.
+- Oh, on Nintendo, I've already been using my Switch more and more even before all this, so I think it's time; my wife and I need our own Switch 2s. She's been itching for Pokopia anyway, and a lot of the games I'm looking forward to are getting Switch 2 versions. Sure, some are game key cards, but some will be actually game cards. Many of the games my wife plays we can only get on Steam, so we'll keep one gaming PC, but I'm thinking of selling my ROG Ally X and the Switch Lite to fund the Switch 2 upgrades. I might want to keep my OG Switch for CFW purposes, will see.
+
+I said before that consumers vote with their wallets. My one single vote probably doesn't mean much, but I stand on principle. And when enough "single votes" happen, they collectively make a difference. So I can only hope that more people stand up and say:
+
+Enough. No more.
+
 ---
 
 *This sucks. The industry sucks. Corporate greed sucks. Wasn't gaming supposed to be about fun?*
