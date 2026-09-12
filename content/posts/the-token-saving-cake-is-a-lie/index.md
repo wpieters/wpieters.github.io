@@ -1,7 +1,8 @@
 ---
 title: "The Prompt Compression Rabbit Hole: From Caveman to Proxy"
 date: 2026-04-13
-tags: ["ai", "tools", "tips", "claude", "coding", "llm"]
+tags: ["ai", "tools", "claude", "coding", "llm", "pi", "opencode", "fable", "astra"]
+categories: ["tech"]
 description: "I wanted to compress prompts in Claude Code. Turns out the obvious approach doesn't work, a popular repo is broken, and the real solution is a lot more interesting."
 canonicalURL: "https://wynandpieters.dev/posts/the-token-saving-cake-is-a-lie/"
 cover:

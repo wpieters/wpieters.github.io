@@ -13,7 +13,7 @@ cover:
 
 ## Tools
 
-*Full comparisons and context in my [2026 AI tech stack post](/posts/ai-tech-stach-2026). This is just what you need installed to follow the workflow below.*
+*Full comparisons and context in my [2026 AI tech stack post](/posts/ai-tech-stack-2026). This is just what you need installed to follow the workflow below.*
 
 ### Claude Code
 
