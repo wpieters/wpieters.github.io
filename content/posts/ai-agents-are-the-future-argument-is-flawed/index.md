@@ -2,8 +2,8 @@
 title: "The argument that AI Agents are the future is flawed"
 date: 2026-03-16
 description: "Why I'm skeptical about the argument that AI and Agents are the future, and what people seem to be missing"
-tags: ["ai", "software-development", "tech-industry", "future-of-tech", "productivity"]
-categories: ["personal"]
+tags: ["ai", "agents", "future-of-work", "tech-inclusion", "tech-industry", "opinion"]
+categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/ai-agents-are-the-future-argument-is-flawed"
 cover:
   image: "posts/ai-agents-are-the-future-argument-is-flawed/images/banner.png"

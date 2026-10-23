@@ -2,7 +2,7 @@
 title: "The Gell-Mann amnesia effect and Tech today"
 date: 2025-07-11
 description: "My thoughts on how the Gell-Mann amnesia effect extends beyond just reading the news"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "vibe-coding", "future-of-tech", "tech-industry", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_the-gell-mann-amnesia-effect-it-describes-activity-7349330245272989696-6km_"
 cover:

@@ -2,7 +2,7 @@
 title: "Standards"
 date: 2025-08-05
 description: "Or rather, the lack thereof"
-tags: ["standards", "tech", "ai", "future-of-tech", "opinion", "ethics"]
+tags: ["standards", "ai", "hiring", "tech-industry", "ethics", "future-of-tech", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/standards"
 cover:

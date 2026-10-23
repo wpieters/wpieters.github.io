@@ -2,7 +2,7 @@
 title: "Words Matter"
 date: 2026-01-09
 description: "Not only for instructing AI, but also for the future of software roles"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "career", "fundamentals", "future-of-work", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_softwareengineering-ai-futureofwork-activity-7415311087723843584-6bwx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALRdvUB-ZlGxXp4zNgaZSFrG5hKPM5Z_jU"
 cover:

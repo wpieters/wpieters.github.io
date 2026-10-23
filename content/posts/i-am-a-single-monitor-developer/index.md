@@ -2,7 +2,7 @@
 title: "I am a Single Monitor Developer (but I am very particular about that monitor)"
 date: 2023-11-23
 description: "A reflection on monitor setup preferences and how they evolve with different development roles and project complexities"
-tags: ["dev-to", "productivity", "setup", "opinion", "discuss"]
+tags: ["dev-to", "productivity", "setup", "hardware", "opinion", "discuss"]
 categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/i-am-a-single-monitor-developer-but-i-am-very-particular-about-that-monitor-1ggg"
 cover:

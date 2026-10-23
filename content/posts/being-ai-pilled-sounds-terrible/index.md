@@ -2,7 +2,7 @@
 title: "Being AI Pilled Sounds Terrible"
 date: 2026-04-28
 description: "Red pill, blue is a choice right? So why do people make it sound so terrible?"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "agents", "future-of-tech", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_softwaredevelopment-ai-developerlife-share-7454782519205502976-8djE"
 cover:

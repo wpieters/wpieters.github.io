@@ -2,7 +2,7 @@
 title: "Standards, Part 2 - The Rant"
 date: 2026-02-11
 description: "A rant about the state of software development and the lack of standards"
-tags: ["standards", "tech", "ai", "future-of-tech", "opinion", "ethics"]
+tags: ["standards", "ai", "ethics", "future-of-tech", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.com/posts/standards-part-2"
 cover:

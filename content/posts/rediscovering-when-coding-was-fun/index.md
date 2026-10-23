@@ -3,7 +3,7 @@ title: "Rediscovering When Coding Was Fun"
 date: 2026-03-30
 description: "Thoughts on fantasy consoles, deliberate constraints, and rediscovering why you started coding in the first place"
 categories: ["tech", "game-dev", "personal"]
-tags: ["coding", "gamedev", "programming", "reflection", "tools"]
+tags: ["gamedev", "programming", "pico-8", "unity", "nostalgia", "reflection", "so-this-is-how-i-die"]
 canonicalURL: "https://wynandpieters.dev/posts/rediscovering-when-coding-was-fun/"
 cover:
     image: "posts/rediscovering-when-coding-was-fun/images/banner.png"

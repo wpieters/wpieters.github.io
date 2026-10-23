@@ -2,7 +2,7 @@
 title: "Accountability and Trust in AI"
 date: 2026-04-21
 description: "My thoughts on where the line lives"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "agents", "cast", "ethics", "leadership", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_ai-aiagents-leadership-activity-7452258886163738624-mTQN"
 cover:

@@ -2,7 +2,7 @@
 title: "The Future of AI Coding is Directing. Let Me Introduce You to Your C.A.S.T."
 date: 2026-04-09
 description: "The follow-up to 'Two AI Agents Walk Into a Codebase' I promised you"
-tags: ["tech", "ai", "future-of-tech", "future-of-work", "coding", "development"]
+tags: ["ai", "agents", "cast", "claude-code", "future-of-tech", "software-development"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/cast-intro"
 cover:

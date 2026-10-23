@@ -2,7 +2,7 @@
 title: "Tools I'm Using in 2026 (and what I've stopped using from 2025)"
 date: 2026-05-26
 description: "A look at what makes me more productive six months into 2026"
-tags: ["dev-to", "ai", "career", "industry", "tools"]
+tags: ["dev-to", "ai", "agents", "claude-code", "tools", "productivity", "setup"]
 categories: ["tech", "personal"]
 canonicalURL: "https://dev.to/wynandpieters/tools-im-using-in-2026-and-what-ive-stopped-using-from-2025-4fi8"
 cover:

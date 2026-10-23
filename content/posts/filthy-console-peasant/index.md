@@ -3,7 +3,7 @@ title: "I've abandoned the PC Master Race"
 date: 2025-11-04
 description: "My thoughts on ditching desktop PC gaming and becoming a dirty console peasant."
 categories: ["gaming"]
-tags: ["nintendo", "playstation", "xbox", "asus", "gaming", "opinion"]
+tags: ["nintendo", "playstation", "xbox", "hardware", "gaming", "opinion"]
 cover:
   image: "posts/filthy-console-peasant/images/banner.png"
   alt: "Cover image for I've abandoned the PC Master Race"

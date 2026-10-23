@@ -2,7 +2,7 @@
 title: "Be water, my friend (my tao of software development)"
 date: 2024-06-10
 description: "Applying Bruce Lee's philosophy to software development and career growth"
-tags: ["dev-to", "career", "philosophy", "growth"]
+tags: ["dev-to", "career", "philosophy", "self-improvement"]
 categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/be-water-my-friend-my-tao-of-software-development-5jn"
 cover:

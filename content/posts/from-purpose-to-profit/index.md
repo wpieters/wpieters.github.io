@@ -2,7 +2,7 @@
 title: "Why Technology Shifted from Purpose to Profit"
 date: 2026-04-13
 description: "When Gaming Lost Its Soul, And Why AI Is Speedrunning the Same Path."
-tags: ["tech", "ai", "gaming", "gamedev"]
+tags: ["ai", "gaming", "gamedev", "ethics", "tech-industry", "opinion"]
 categories: ["tech", "game-dev"]
 canonicalURL: "https://wynandpieters.dev/posts/from-purpose-to-profit/"
 cover:

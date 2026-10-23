@@ -2,7 +2,7 @@
 title: "Is apprenticeship the answer?"
 date: 2026-01-27
 description: "My thoughts on apprenticeship vs pivoting in the current tech landscape"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "career", "fundamentals", "future-of-work", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_ive-said-it-before-and-ill-keep-saying-activity-7421773752805285888-LyOr"
 cover:
