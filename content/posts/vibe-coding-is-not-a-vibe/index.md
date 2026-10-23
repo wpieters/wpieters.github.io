@@ -2,7 +2,7 @@
 title: "Vibe coding is not a vibe! (regardless of what you've heard)"
 date: 2025-03-19
 description: "A candid reflection on AI coding tools like Cursor and Windsurf"
-tags: ["linkedin", "ai", "tools", "development", "coding"]
+tags: ["linkedin", "ai", "vibe-coding", "tools", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_aitools-softwaredevelopment-devtools-activity-7307745341741654016-HRDC"
 cover:

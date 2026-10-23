@@ -2,7 +2,7 @@
 title: "Loud is Not the Same as Good"
 date: 2026-03-01
 description: "Why the loudest voices in tech aren't always the best thinkers"
-tags: ["linkedin", "tech", "ai", "vibe-coding", "tools"]
+tags: ["ai", "social-media", "tech-industry", "reflection", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/loud-is-not-the-same-as-good/"
 cover:

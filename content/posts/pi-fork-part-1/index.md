@@ -1,7 +1,7 @@
 ---
 title: "Further Down the Token Rabbit Hole"
 date: 2026-09-12
-tags: ["ai", "tools", "claude", "coding", "llm", "pi", "opencode", "fable", "astra"]
+tags: ["ai", "claude-code", "llm", "pi", "opencode", "fable", "astra", "tools"]
 categories: ["tech"]
 description: "What would a real solution look like? And what if I didn't even have to build it?"
 canonicalURL: "https://wynandpieters.dev/posts/pi-fork-part-1/"

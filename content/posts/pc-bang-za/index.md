@@ -2,7 +2,7 @@
 title: "I've always dreamed of running a PC Bang"
 date: 2026-08-07
 description: "Reflecting on dreams and wondering if a PC Bang would make sense in South Africa"
-tags: ["tech", "opinion", "entrepreneurship", "gaming", "nostalgia", "tech-inclusion"]
+tags: ["personal", "entrepreneurship", "gaming", "nostalgia", "tech-inclusion", "opinion"]
 categories: ["personal"]
 canonicalURL: "https://wynandpieters.dev/posts/pc-bang-za/"
 cover:

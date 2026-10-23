@@ -2,7 +2,7 @@
 title: "The Quest for the Holy Coding Grail (are LLMs the first step in replacing programming languages?)"
 date: 2023-06-02
 description: "A humorous and insightful look at whether AI and LLMs are bringing us closer to the dream of natural language programming"
-tags: ["dev-to", "ai", "programming", "llm", "future-of-tech", "chatgpt"]
+tags: ["dev-to", "ai", "chatgpt", "llm", "programming", "future-of-tech", "ethics"]
 categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/the-quest-for-the-holy-coding-grail-3ail"
 cover:

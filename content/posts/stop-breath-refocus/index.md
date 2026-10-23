@@ -2,7 +2,7 @@
 title: "Stop. Take a breath. Refocus."
 date: 2026-02-27
 description: "My thoughts alongside a re-share of a post about focusing on what matters."
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "future-of-tech", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/feed/update/urn:li:activity:7433062805223890946/"
 cover:

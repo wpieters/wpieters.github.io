@@ -2,7 +2,7 @@
 title: "C.A.S.T Progress: First Blood"
 date: 2026-05-28
 description: "The first end-to-end integration test passed. Here's what worked, what broke, and what I learned."
-tags: ["tech", "ai", "future-of-tech", "future-of-work", "coding", "development"]
+tags: ["ai", "agents", "cast", "claude-code", "devlog", "software-development"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/cast-first-blood"
 cover:

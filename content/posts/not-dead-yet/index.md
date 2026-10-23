@@ -2,7 +2,8 @@
 title: "Not dead yet...💀🎲"
 date: 2024-04-20
 description: "Development update on technical challenges with Unity URP and version control for So This Is How I DIE"
-tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog", "technical-issues"]
+tags: ["itch-io", "so-this-is-how-i-die", "gamedev", "devlog", "unity"]
+categories: ["game-dev"]
 canonicalURL: "https://duhblinnza.itch.io/so-this-is-how-i-die/devlog/717988/not-dead-yet"
 ---
 

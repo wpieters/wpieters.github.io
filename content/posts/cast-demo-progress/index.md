@@ -2,7 +2,7 @@
 title: "C.A.S.T Progress: Five Roles, One Ticket, Zero Human Coding"
 date: 2026-09-04
 description: "The full ticket lifecycle now runs end to end. PM, dev, reviewer and cleanup agents, one ticket, one demo script. Here's what worked, what I reversed, and the eleven bugs a fresh laptop found."
-tags: ["tech", "ai", "future-of-tech", "future-of-work", "coding", "development"]
+tags: ["ai", "agents", "cast", "claude-code", "devlog", "software-development"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/cast-demo-progress"
 cover:

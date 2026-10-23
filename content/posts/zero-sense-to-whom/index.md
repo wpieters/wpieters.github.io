@@ -2,7 +2,7 @@
 title: "Zero Sense to Whom?"
 date: 2026-10-01
 description: "What happened to context, and why do we assume one person’s opinion is someone else’s truth?"
-tags: ["tech", "ai", "future-of-tech", "engineering", "development", "opinion"]
+tags: ["substack", "ai", "agents", "setup", "tech-inclusion", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.substack.com/p/zero-sense-to-whom"
 cover:

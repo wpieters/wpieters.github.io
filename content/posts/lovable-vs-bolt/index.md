@@ -2,7 +2,7 @@
 title: "Lovable vs Bolt.new: A Quick Comparison"
 date: 2025-08-05
 description: "My experience testing two popular 'vibe coding' platforms with the same app idea"
-tags: ["linkedin", "tech", "ai", "vibe-coding", "tools"]
+tags: ["linkedin", "ai", "vibe-coding", "lowcode", "tools"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_aitools-nocode-lowcode-activity-7358426185355120641-Tjza"
 cover:

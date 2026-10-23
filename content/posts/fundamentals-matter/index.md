@@ -2,7 +2,7 @@
 title: "Fundamentals Matter"
 date: 2025-12-15
 description: "Happy to see others catch up to my views on fundamentals"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "vibe-coding", "fundamentals", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_im-really-happy-to-see-my-linkedin-feed-activity-7407423477647060992-CNze?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALRdvUB-ZlGxXp4zNgaZSFrG5hKPM5Z_jU"
 cover:

@@ -3,7 +3,7 @@ title: "You Will Own Nothing..."
 date: 2026-07-10
 description: "... and be happy."
 categories: ["gaming", "personal"]
-tags: ["nintendo", "sony", "xbox", "gaming", "opinion", "future-of-tech", "ethics"]
+tags: ["nintendo", "playstation", "xbox", "gaming", "ethics", "future-of-tech", "opinion"]
 cover:
   image: "posts/you-will-own-nothing/images/banner.jpg"
   alt: "Cover image for You Will Own Nothing - Playstation logo 'Play has no limits' with the 'no' crossed out"

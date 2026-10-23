@@ -2,7 +2,7 @@
 title: "How on earth did we get here?"
 date: 2026-02-24
 description: "A rant on the OpenClaw situation"
-tags: ["tech", "ai", "future-of-tech", "opinion", "security", "social-media", "ethics", "responsibility"]
+tags: ["ai", "security", "social-media", "ethics", "tech-industry", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/openclaw-wtf/"
 cover:

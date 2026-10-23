@@ -2,7 +2,7 @@
 title: "Omarchy Hype"
 date: 2026-10-01
 description: "I kinda get it now..."
-tags: ["linkedin", "ai", "tools", "development", "coding", "os", "setup"]
+tags: ["linkedin", "ai", "linux", "setup", "tools", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://lnkd.in/p/dnK8uM85"
 cover:

@@ -2,7 +2,7 @@
 title: "My Agentic Engineering Workflow ATM"
 date: 2026-06-21
 description: "A look at what tools I use and how I use them to be more productive as an engineer"
-tags: ["ai", "macos", "tips", "productivity", "claude-code", "jetbrains"]
+tags: ["ai", "agents", "claude-code", "jetbrains", "tools", "productivity", "tips"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/my-agentic-engineering-worklow-atm"
 cover:

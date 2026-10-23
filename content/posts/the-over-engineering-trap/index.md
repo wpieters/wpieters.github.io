@@ -2,7 +2,7 @@
 title: "The over-engineering trap"
 date: 2025-03-06
 description: "Reflections on why we sometimes over-engineer solutions"
-tags: ["development", "engineering", "problem-solving", "self-improvement"]
+tags: ["software-development", "problem-solving", "self-improvement", "reflection"]
 categories: ["personal", "tech"]
 canonicalURL: "https://wynandpieters.dev/posts/the-over-engineering-trap/"
 cover:

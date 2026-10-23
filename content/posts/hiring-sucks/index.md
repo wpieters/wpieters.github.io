@@ -2,7 +2,7 @@
 title: "Hiring in Tech Sucks: Here's What Actually Worked For Me"
 date: 2026-03-02
 description: "My experience with hiring in tech across a range of companies and roles"
-tags: ["tech", "hiring", "operations", "opinion"]
+tags: ["hiring", "career", "leadership", "tech-industry", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/hiring-sucks/"
 cover:

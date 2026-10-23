@@ -2,7 +2,7 @@
 title: "Don't trust the salesperson"
 date: 2025-09-21
 description: "Trust the user reviews"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "social-media", "tech-industry", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_dont-trust-the-salesperson-trust-the-user-activity-7377598815085879296-L5MF"
 cover:

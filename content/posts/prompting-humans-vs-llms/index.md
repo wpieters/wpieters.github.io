@@ -2,7 +2,7 @@
 title: "Prompting LLMs and ignoring the human API"
 date: 2026-02-15
 description: "My thoughts on prompting humans vs LLMs"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "llm", "soft-skills", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_communication-ai-workplaceculture-activity-7426943783025610754-gsW7"
 cover:

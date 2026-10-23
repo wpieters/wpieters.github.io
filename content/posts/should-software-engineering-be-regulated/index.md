@@ -2,7 +2,7 @@
 title: "Maybe Software Engineering Should Be Regulated. I Can't Decide If That Terrifies Me."
 date: 2026-04-20
 description: "Exploring the parallels between medicine and software engineering, and whether formal regulation is the answer to our industry's growing chaos."
-tags: ["standards", "tech", "ai", "future-of-tech", "opinion", "ethics", "software-development"]
+tags: ["standards", "ai", "vibe-coding", "ethics", "fundamentals", "software-development", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/should-software-engineering-be-regulated/"
 cover:

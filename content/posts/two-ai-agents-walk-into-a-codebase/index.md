@@ -2,7 +2,7 @@
 title: "Two AI Agents Walk Into a Codebase"
 date: 2026-03-10
 description: "They don't talk to each other"
-tags: ["ai", "coding", "productivity", "linkedin"]
+tags: ["linkedin", "ai", "agents", "cast", "claude-code"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_two-ai-agents-walk-into-a-codebase-they-activity-7437045079204167680-I5Nj"
 cover:

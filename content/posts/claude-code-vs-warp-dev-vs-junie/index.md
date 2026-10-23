@@ -2,7 +2,7 @@
 title: "Claude Code vs Warp.dev vs Junie: A (not so) Quick Comparison"
 date: 2025-08-08
 description: "My experience testing three popular 'vibe coding' platforms with the same app idea"
-tags: ["dev-to", "tech", "ai", "vibe-coding", "tools"]
+tags: ["dev-to", "ai", "vibe-coding", "claude-code", "jetbrains", "tools"]
 categories: ["tech"]
 canonicalURL: "https://dev.to/wynandpieters/claude-code-vs-warpdev-vs-jetbrains-junie-5484"
 cover:

@@ -2,7 +2,7 @@
 title: "Token Saving Bait and Switch"
 date: 2026-04-15
 description: "Token savings are not what you think they are..."
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "ai", "claude-code", "tools", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_ai-claudecode-tokenoptimization-activity-7449705482128257024-1jYd"
 cover:

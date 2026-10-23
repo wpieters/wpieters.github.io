@@ -2,7 +2,7 @@
 title: "We've Seen This Movie Before"
 date: 2026-03-19
 description: "The AI coding tools boom is giving me serious déjà vu — and not the good kind"
-tags: ["tech", "ai", "vibe-coding", "tools", "gaming", "gamedev"]
+tags: ["ai", "vibe-coding", "security", "gaming", "gamedev", "tech-industry", "opinion"]
 categories: ["tech", "game-dev"]
 canonicalURL: "https://wynandpieters.dev/posts/weve-seen-this-movie-before/"
 cover:

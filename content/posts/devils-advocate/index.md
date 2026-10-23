@@ -2,7 +2,7 @@
 title: "The Devil's Advocate"
 date: 2026-03-09
 description: "The importance of challenging assumptions and thinking critically"
-tags: ["tech", "ai", "future-of-tech", "opinion", "critical-thinking", "soft-skills"]
+tags: ["ai", "future-of-tech", "critical-thinking", "soft-skills", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://wynandpieters.dev/posts/devils-advocate/"
 cover:

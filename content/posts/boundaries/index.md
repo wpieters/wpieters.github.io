@@ -2,7 +2,7 @@
 title: "Boundaries"
 date: 2025-10-01
 description: "My thoughts on boundaries and 996 culture"
-tags: ["linkedin", "tech", "ai", "future-of-tech", "opinion"]
+tags: ["linkedin", "career", "future-of-work", "opinion"]
 categories: ["tech"]
 canonicalURL: "https://www.linkedin.com/posts/wynand-pieters_one-of-the-hardest-lessons-ive-learned-in-activity-7379412097492942848-pnMz"
 cover:
